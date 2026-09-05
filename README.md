@@ -1,4 +1,4 @@
-# Awesome Agricultural Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Agricultural Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -67,10 +67,10 @@ Agricultural drones are transforming modern farming practices by enabling precis
 
 ## Related Awesome Lists
 
-- **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers)**
-- **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)**
-- **[Awesome Lidar for Drones](https://github.com/awesomelistsio/awesome-lidar-drones)**
-- **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering)**
+- **[Awesome Drone Engineers](https://github.com/brandonhimpfen/awesome-drone-engineers)**
+- **[Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)**
+- **[Awesome Lidar for Drones](https://github.com/brandonhimpfen/awesome-lidar-drones)**
+- **[Awesome Environmental Engineering](https://github.com/brandonhimpfen/awesome-environmental-engineering)**
   
 ## Contribute
 
